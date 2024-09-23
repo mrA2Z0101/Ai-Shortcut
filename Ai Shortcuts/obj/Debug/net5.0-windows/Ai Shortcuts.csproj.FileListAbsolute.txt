@@ -1,0 +1,18 @@
+C:\Users\AKZis\source\repos\Ai Shortcuts\bin\Debug\net5.0-windows\Ai Shortcuts.exe
+C:\Users\AKZis\source\repos\Ai Shortcuts\bin\Debug\net5.0-windows\Ai Shortcuts.deps.json
+C:\Users\AKZis\source\repos\Ai Shortcuts\bin\Debug\net5.0-windows\Ai Shortcuts.runtimeconfig.json
+C:\Users\AKZis\source\repos\Ai Shortcuts\bin\Debug\net5.0-windows\Ai Shortcuts.runtimeconfig.dev.json
+C:\Users\AKZis\source\repos\Ai Shortcuts\bin\Debug\net5.0-windows\Ai Shortcuts.dll
+C:\Users\AKZis\source\repos\Ai Shortcuts\bin\Debug\net5.0-windows\ref\Ai Shortcuts.dll
+C:\Users\AKZis\source\repos\Ai Shortcuts\bin\Debug\net5.0-windows\Ai Shortcuts.pdb
+C:\Users\AKZis\source\repos\Ai Shortcuts\obj\Debug\net5.0-windows\Ai Shortcuts.csproj.AssemblyReference.cache
+C:\Users\AKZis\source\repos\Ai Shortcuts\obj\Debug\net5.0-windows\Ai_Shortcuts.Form1.resources
+C:\Users\AKZis\source\repos\Ai Shortcuts\obj\Debug\net5.0-windows\Ai Shortcuts.csproj.GenerateResource.cache
+C:\Users\AKZis\source\repos\Ai Shortcuts\obj\Debug\net5.0-windows\Ai Shortcuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKZis\source\repos\Ai Shortcuts\obj\Debug\net5.0-windows\Ai Shortcuts.AssemblyInfoInputs.cache
+C:\Users\AKZis\source\repos\Ai Shortcuts\obj\Debug\net5.0-windows\Ai Shortcuts.AssemblyInfo.cs
+C:\Users\AKZis\source\repos\Ai Shortcuts\obj\Debug\net5.0-windows\Ai Shortcuts.csproj.CoreCompileInputs.cache
+C:\Users\AKZis\source\repos\Ai Shortcuts\obj\Debug\net5.0-windows\Ai Shortcuts.dll
+C:\Users\AKZis\source\repos\Ai Shortcuts\obj\Debug\net5.0-windows\ref\Ai Shortcuts.dll
+C:\Users\AKZis\source\repos\Ai Shortcuts\obj\Debug\net5.0-windows\Ai Shortcuts.pdb
+C:\Users\AKZis\source\repos\Ai Shortcuts\obj\Debug\net5.0-windows\Ai Shortcuts.genruntimeconfig.cache
